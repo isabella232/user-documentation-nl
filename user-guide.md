@@ -1,8 +1,10 @@
 # User guide
 
-The user guide is not available in Dutch. 
+[ ](https://prestashop.gitbook.io/howtocontribute/)
 
-If you would like to contribute to the translation of the user guide, visit the [contribution page](https://app.gitbook.com/@prestashop/s/howtocontribute/).
+![](.gitbook/assets/translation-many-pages-.png)
 
-                              ![](.gitbook/assets/puffin-2x-2-.png) 
+
+
+
 
