@@ -9,5 +9,4 @@
   * [PrestaShop verwijderen](aan-de-slag/prestashop-verwijderen.md)
   * [Overige informatie](aan-de-slag/overige-informatie.md)
 * [User guide](user-guide.md)
-* [How to contribute?](https://prestashop.gitbook.io/howtocontribute/)
 
