@@ -1,8 +1,6 @@
 # User guide
 
-![](.gitbook/assets/translation-many-pages-1-.png)
+![](<.gitbook/assets/translation (many pages) (1) (1).png>)
 
-➡[Contribute](https://prestashop.gitbook.io/howtocontribute/)
-
-
+:arrow\_right:[Contribute](https://prestashop.gitbook.io/howtocontribute/)
 
