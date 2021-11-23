@@ -2,7 +2,7 @@
 
 ## **About the user documentation**
 
-Here is the [repository ](https://github.com/PrestaShop/user-documentation-nl)where you will find the Dutch documentation on how to create, maintain, and make the most of a PrestaShop online store...
+Here is the [repository ](https://github.com/PrestaShop/user-documentation-nl)where you will find the Dutch documentation on how to create, maintain, and make the most of a PrestaShop online store.
 
 It hosts the 1.7 documentation on how to install PrestaShop and use each page of the back office. This documentation is also available in 6 other languages.
 
