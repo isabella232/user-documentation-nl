@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About the user documentation](README.md)
+* [Contributing to the documentation](README.md)
 * [Aan de slag met PrestaShop 1.7](aan-de-slag/README.md)
   * [Wat u nodig hebt om aan de slag te gaan](aan-de-slag/wat-u-nodig-hebt-om-aan-de-slag-te-gaan.md)
   * [PrestaShop installeren](aan-de-slag/prestashop-installeren.md)
@@ -9,4 +9,3 @@
   * [PrestaShop verwijderen](aan-de-slag/prestashop-verwijderen.md)
   * [Overige informatie](aan-de-slag/overige-informatie.md)
 * [User guide](user-guide.md)
-
